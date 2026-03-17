@@ -1,0 +1,7 @@
+{
+  "name": "InfraSurge MD",
+  "description": "A clinical-grade cold email infrastructure management platform. Monitor domain health, automate mailbox provisioning, and perform surgical DNS optimizations to maintain 100% deliverability.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
